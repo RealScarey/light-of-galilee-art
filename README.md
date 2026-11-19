@@ -24,8 +24,11 @@ Narration and cue audio for the Light of Galilee Bethsaida prototype.
   lines, the partial-healing line, and “This is my beloved Son.”
 - `audio/timings/*.json` — word start/end times for scroll highlighting,
   plus `audio/manifest.json`.
-- `audio/sfx/` — `ambience.mp3` (loop), `tap.mp3`, `star1.mp3`, `star2.mp3`,
-  `star3.mp3`, `excellent.mp3`. 44.1 kHz mono MP3 for iOS Safari.
+- `audio/sfx/` — `ambience.mp3` (loop: natural evening wind and soft lake
+  water, no sine chirps), `tap.mp3`, `star1.mp3`, `star2.mp3`,
+  `star3.mp3`, `excellent.mp3` (warm chord swell, highs rolled off).
+  44.1 kHz mono MP3 for iOS Safari. Earlier synthetic whistle versions
+  are kept under `audio/sfx-whistle-unused/` and are not used in-game.
 
 All files are served as local assets at runtime; do not depend on GitHub
 from the live game after download.
