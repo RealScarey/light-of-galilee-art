@@ -1,0 +1,62 @@
+{
+  "id": "outcome-excellent",
+  "text": "The sky opens. A dove descends. He sees every thing clearly.",
+  "duration": 5.4189115646258506,
+  "words": [
+    {
+      "text": "The",
+      "start": 0.299,
+      "end": 0.4267
+    },
+    {
+      "text": "sky",
+      "start": 0.469,
+      "end": 0.6827
+    },
+    {
+      "text": "opens",
+      "start": 0.768,
+      "end": 1.109
+    },
+    {
+      "text": "A",
+      "start": 1.664,
+      "end": 1.749
+    },
+    {
+      "text": "dove",
+      "start": 1.792,
+      "end": 2.005
+    },
+    {
+      "text": "descends",
+      "start": 2.133,
+      "end": 2.475
+    },
+    {
+      "text": "He",
+      "start": 3.328,
+      "end": 3.456
+    },
+    {
+      "text": "sees",
+      "start": 3.499,
+      "end": 3.712
+    },
+    {
+      "text": "every",
+      "start": 3.84,
+      "end": 4.181
+    },
+    {
+      "text": "thing",
+      "start": 4.352,
+      "end": 4.608
+    },
+    {
+      "text": "clearly",
+      "start": 4.736,
+      "end": 4.992
+    }
+  ]
+}

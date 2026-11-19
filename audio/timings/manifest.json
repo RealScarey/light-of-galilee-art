@@ -1,0 +1,118 @@
+{
+  "voice": {
+    "provider": "HeyGen Voice",
+    "name": "Sharon - Soft & Warm",
+    "voice_id": "3d99ad74a1ca43d191d2247926488ff2",
+    "locale": "en-AU",
+    "gender": "female",
+    "mode": "instant",
+    "expressiveness_boost": 0.35
+  },
+  "clips": [
+    {
+      "id": "mark-8-22",
+      "file": "audio/narration/mark-8-22.mp3",
+      "timings": "audio/timings/mark-8-22.json",
+      "duration": 5.848480725623583,
+      "text": "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him."
+    },
+    {
+      "id": "mark-8-23",
+      "file": "audio/narration/mark-8-23.mp3",
+      "timings": "audio/timings/mark-8-23.json",
+      "duration": 9.633333333333333,
+      "text": "And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought."
+    },
+    {
+      "id": "mark-8-24",
+      "file": "audio/narration/mark-8-24.mp3",
+      "timings": "audio/timings/mark-8-24.json",
+      "duration": 5.291201814058957,
+      "text": "And he looked up, and said, I see men as trees, walking."
+    },
+    {
+      "id": "mark-8-24-excerpt",
+      "file": "audio/narration/mark-8-24-excerpt.mp3",
+      "timings": "audio/timings/mark-8-24-excerpt.json",
+      "duration": 2.518140589569161,
+      "text": "I see men as trees, walking."
+    },
+    {
+      "id": "mark-8-25",
+      "file": "audio/narration/mark-8-25.mp3",
+      "timings": "audio/timings/mark-8-25.json",
+      "duration": 7.334557823129252,
+      "text": "After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly."
+    },
+    {
+      "id": "mark-8-26",
+      "file": "audio/narration/mark-8-26.mp3",
+      "timings": "audio/timings/mark-8-26.json",
+      "duration": 6.011020408163265,
+      "text": "And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town."
+    },
+    {
+      "id": "plain-8-22",
+      "file": "audio/narration/plain-8-22.mp3",
+      "timings": "audio/timings/plain-8-22.json",
+      "duration": 2.5164172335600905,
+      "text": "they begged Jesus to touch him."
+    },
+    {
+      "id": "outcome-excellent",
+      "file": "audio/narration/outcome-excellent.mp3",
+      "timings": "audio/timings/outcome-excellent.json",
+      "duration": 5.4189115646258506,
+      "text": "The sky opens. A dove descends. He sees every thing clearly."
+    },
+    {
+      "id": "outcome-good",
+      "file": "audio/narration/outcome-good.mp3",
+      "timings": "audio/timings/outcome-good.json",
+      "duration": 4.141814058956916,
+      "text": "Warm light, gladness, and the crowd draws near."
+    },
+    {
+      "id": "outcome-overwhelming",
+      "file": "audio/narration/outcome-overwhelming.mp3",
+      "timings": "audio/timings/outcome-overwhelming.json",
+      "duration": 5.337641723356009,
+      "text": "Too much power, too soon. Awe turns to fear and everyone steps back."
+    },
+    {
+      "id": "outcome-cold",
+      "file": "audio/narration/outcome-cold.mp3",
+      "timings": "audio/timings/outcome-cold.json",
+      "duration": 5.03578231292517,
+      "text": "A grey storm. The man falls, afraid, and the villagers hide."
+    },
+    {
+      "id": "outcome-grotesque",
+      "file": "audio/narration/outcome-grotesque.mp3",
+      "timings": "audio/timings/outcome-grotesque.json",
+      "duration": 5.209931972789116,
+      "text": "Power without compassion. He is thrown back and the village scatters."
+    },
+    {
+      "id": "outcome-ineffective",
+      "file": "audio/narration/outcome-ineffective.mp3",
+      "timings": "audio/timings/outcome-ineffective.json",
+      "duration": 3.9676643990929703,
+      "text": "Nothing was done. Dusk settles and the crowd drifts home."
+    },
+    {
+      "id": "outcome-partial",
+      "file": "audio/narration/outcome-partial.mp3",
+      "timings": "audio/timings/outcome-partial.json",
+      "duration": 8.994784580498866,
+      "text": "He sees, but not yet clearly: men as trees, walking. The second touch was not completed; no new follower is gained."
+    },
+    {
+      "id": "beloved-son",
+      "file": "audio/narration/beloved-son.mp3",
+      "timings": "audio/timings/beloved-son.json",
+      "duration": 1.796938775510204,
+      "text": "This is my beloved Son."
+    }
+  ]
+}

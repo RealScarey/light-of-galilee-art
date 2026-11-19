@@ -1,0 +1,62 @@
+{
+  "id": "outcome-grotesque",
+  "text": "Power without compassion. He is thrown back and the village scatters.",
+  "duration": 5.209931972789116,
+  "words": [
+    {
+      "text": "Power",
+      "start": 0.299,
+      "end": 0.6827
+    },
+    {
+      "text": "without",
+      "start": 0.896,
+      "end": 1.109
+    },
+    {
+      "text": "compassion",
+      "start": 1.323,
+      "end": 1.835
+    },
+    {
+      "text": "He",
+      "start": 2.389,
+      "end": 2.645
+    },
+    {
+      "text": "is",
+      "start": 2.688,
+      "end": 2.7307
+    },
+    {
+      "text": "thrown",
+      "start": 2.859,
+      "end": 3.157
+    },
+    {
+      "text": "back",
+      "start": 3.285,
+      "end": 3.4987
+    },
+    {
+      "text": "and",
+      "start": 3.669,
+      "end": 3.883
+    },
+    {
+      "text": "the",
+      "start": 3.925,
+      "end": 4.0107
+    },
+    {
+      "text": "village",
+      "start": 4.053,
+      "end": 4.309
+    },
+    {
+      "text": "scatters",
+      "start": 4.437,
+      "end": 4.821
+    }
+  ]
+}

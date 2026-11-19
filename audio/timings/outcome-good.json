@@ -1,0 +1,47 @@
+{
+  "id": "outcome-good",
+  "text": "Warm light, gladness, and the crowd draws near.",
+  "duration": 4.141814058956916,
+  "words": [
+    {
+      "text": "Warm",
+      "start": 0.256,
+      "end": 0.597
+    },
+    {
+      "text": "light",
+      "start": 0.768,
+      "end": 0.981
+    },
+    {
+      "text": "gladness",
+      "start": 1.579,
+      "end": 2.091
+    },
+    {
+      "text": "and",
+      "start": 2.475,
+      "end": 2.6027
+    },
+    {
+      "text": "the",
+      "start": 2.645,
+      "end": 2.7307
+    },
+    {
+      "text": "crowd",
+      "start": 2.773,
+      "end": 3.1147
+    },
+    {
+      "text": "draws",
+      "start": 3.243,
+      "end": 3.541
+    },
+    {
+      "text": "near",
+      "start": 3.669,
+      "end": 3.84
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "beloved-son",
+  "text": "This is my beloved Son.",
+  "duration": 1.796938775510204,
+  "words": [
+    {
+      "text": "This",
+      "start": 0.299,
+      "end": 0.427
+    },
+    {
+      "text": "is",
+      "start": 0.469,
+      "end": 0.555
+    },
+    {
+      "text": "my",
+      "start": 0.597,
+      "end": 0.725
+    },
+    {
+      "text": "beloved",
+      "start": 0.768,
+      "end": 1.024
+    },
+    {
+      "text": "Son",
+      "start": 1.195,
+      "end": 1.451
+    }
+  ]
+}

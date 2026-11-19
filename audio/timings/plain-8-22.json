@@ -1,0 +1,37 @@
+{
+  "id": "plain-8-22",
+  "text": "they begged Jesus to touch him.",
+  "duration": 2.5164172335600905,
+  "words": [
+    {
+      "text": "they",
+      "start": 0.341,
+      "end": 0.4267
+    },
+    {
+      "text": "begged",
+      "start": 0.512,
+      "end": 0.9387
+    },
+    {
+      "text": "Jesus",
+      "start": 1.067,
+      "end": 1.365
+    },
+    {
+      "text": "to",
+      "start": 1.621,
+      "end": 1.749
+    },
+    {
+      "text": "touch",
+      "start": 1.792,
+      "end": 1.92
+    },
+    {
+      "text": "him",
+      "start": 2.048,
+      "end": 2.219
+    }
+  ]
+}

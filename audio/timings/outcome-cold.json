@@ -1,0 +1,62 @@
+{
+  "id": "outcome-cold",
+  "text": "A grey storm. The man falls, afraid, and the villagers hide.",
+  "duration": 5.03578231292517,
+  "words": [
+    {
+      "text": "A",
+      "start": 0.299,
+      "end": 0.384
+    },
+    {
+      "text": "grey",
+      "start": 0.427,
+      "end": 0.64
+    },
+    {
+      "text": "storm",
+      "start": 0.725,
+      "end": 1.109
+    },
+    {
+      "text": "The",
+      "start": 1.877,
+      "end": 1.9627
+    },
+    {
+      "text": "man",
+      "start": 2.005,
+      "end": 2.133
+    },
+    {
+      "text": "falls",
+      "start": 2.261,
+      "end": 2.517
+    },
+    {
+      "text": "afraid",
+      "start": 2.987,
+      "end": 3.285
+    },
+    {
+      "text": "and",
+      "start": 3.584,
+      "end": 3.755
+    },
+    {
+      "text": "the",
+      "start": 3.797,
+      "end": 3.84
+    },
+    {
+      "text": "villagers",
+      "start": 3.883,
+      "end": 4.2667
+    },
+    {
+      "text": "hide",
+      "start": 4.309,
+      "end": 4.608
+    }
+  ]
+}

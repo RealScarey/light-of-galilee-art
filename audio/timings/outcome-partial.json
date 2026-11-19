@@ -1,0 +1,112 @@
+{
+  "id": "outcome-partial",
+  "text": "He sees, but not yet clearly: men as trees, walking. The second touch was not completed; no new follower is gained.",
+  "duration": 8.994784580498866,
+  "words": [
+    {
+      "text": "He",
+      "start": 0.299,
+      "end": 0.469
+    },
+    {
+      "text": "sees",
+      "start": 0.512,
+      "end": 0.768
+    },
+    {
+      "text": "but",
+      "start": 1.28,
+      "end": 1.4507
+    },
+    {
+      "text": "not",
+      "start": 1.493,
+      "end": 1.621
+    },
+    {
+      "text": "yet",
+      "start": 1.664,
+      "end": 1.792
+    },
+    {
+      "text": "clearly",
+      "start": 1.877,
+      "end": 2.091
+    },
+    {
+      "text": "men",
+      "start": 2.816,
+      "end": 3.029
+    },
+    {
+      "text": "as",
+      "start": 3.072,
+      "end": 3.157
+    },
+    {
+      "text": "trees",
+      "start": 3.243,
+      "end": 3.499
+    },
+    {
+      "text": "walking",
+      "start": 4.053,
+      "end": 4.309
+    },
+    {
+      "text": "The",
+      "start": 5.376,
+      "end": 5.461
+    },
+    {
+      "text": "second",
+      "start": 5.504,
+      "end": 5.6747
+    },
+    {
+      "text": "touch",
+      "start": 5.845,
+      "end": 6.016
+    },
+    {
+      "text": "was",
+      "start": 6.144,
+      "end": 6.229
+    },
+    {
+      "text": "not",
+      "start": 6.272,
+      "end": 6.4427
+    },
+    {
+      "text": "completed",
+      "start": 6.485,
+      "end": 6.869
+    },
+    {
+      "text": "no",
+      "start": 7.253,
+      "end": 7.4667
+    },
+    {
+      "text": "new",
+      "start": 7.595,
+      "end": 7.765
+    },
+    {
+      "text": "follower",
+      "start": 7.808,
+      "end": 8.149
+    },
+    {
+      "text": "is",
+      "start": 8.235,
+      "end": 8.32
+    },
+    {
+      "text": "gained",
+      "start": 8.405,
+      "end": 8.661
+    }
+  ]
+}

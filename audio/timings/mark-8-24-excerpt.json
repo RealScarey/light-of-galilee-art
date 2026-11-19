@@ -1,0 +1,37 @@
+{
+  "id": "mark-8-24-excerpt",
+  "text": "I see men as trees, walking.",
+  "duration": 2.518140589569161,
+  "words": [
+    {
+      "text": "I",
+      "start": 0.299,
+      "end": 0.427
+    },
+    {
+      "text": "see",
+      "start": 0.469,
+      "end": 0.64
+    },
+    {
+      "text": "men",
+      "start": 0.683,
+      "end": 0.896
+    },
+    {
+      "text": "as",
+      "start": 0.939,
+      "end": 1.024
+    },
+    {
+      "text": "trees",
+      "start": 1.109,
+      "end": 1.365
+    },
+    {
+      "text": "walking",
+      "start": 1.877,
+      "end": 2.219
+    }
+  ]
+}

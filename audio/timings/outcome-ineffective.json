@@ -1,0 +1,57 @@
+{
+  "id": "outcome-ineffective",
+  "text": "Nothing was done. Dusk settles and the crowd drifts home.",
+  "duration": 3.9676643990929703,
+  "words": [
+    {
+      "text": "Nothing",
+      "start": 0.299,
+      "end": 0.469
+    },
+    {
+      "text": "was",
+      "start": 0.64,
+      "end": 0.725
+    },
+    {
+      "text": "done",
+      "start": 0.811,
+      "end": 0.981
+    },
+    {
+      "text": "Dusk",
+      "start": 1.451,
+      "end": 1.749
+    },
+    {
+      "text": "settles",
+      "start": 1.835,
+      "end": 2.133
+    },
+    {
+      "text": "and",
+      "start": 2.304,
+      "end": 2.475
+    },
+    {
+      "text": "the",
+      "start": 2.517,
+      "end": 2.56
+    },
+    {
+      "text": "crowd",
+      "start": 2.603,
+      "end": 2.901
+    },
+    {
+      "text": "drifts",
+      "start": 3.029,
+      "end": 3.3707
+    },
+    {
+      "text": "home",
+      "start": 3.413,
+      "end": 3.627
+    }
+  ]
+}

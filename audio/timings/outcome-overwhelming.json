@@ -1,0 +1,72 @@
+{
+  "id": "outcome-overwhelming",
+  "text": "Too much power, too soon. Awe turns to fear and everyone steps back.",
+  "duration": 5.337641723356009,
+  "words": [
+    {
+      "text": "Too",
+      "start": 0.341,
+      "end": 0.469
+    },
+    {
+      "text": "much",
+      "start": 0.512,
+      "end": 0.64
+    },
+    {
+      "text": "power",
+      "start": 0.725,
+      "end": 0.981
+    },
+    {
+      "text": "too",
+      "start": 1.451,
+      "end": 1.621
+    },
+    {
+      "text": "soon",
+      "start": 1.664,
+      "end": 1.92
+    },
+    {
+      "text": "Awe",
+      "start": 2.432,
+      "end": 2.7307
+    },
+    {
+      "text": "turns",
+      "start": 2.859,
+      "end": 3.072
+    },
+    {
+      "text": "to",
+      "start": 3.157,
+      "end": 3.285
+    },
+    {
+      "text": "fear",
+      "start": 3.328,
+      "end": 3.541
+    },
+    {
+      "text": "and",
+      "start": 3.755,
+      "end": 3.968
+    },
+    {
+      "text": "everyone",
+      "start": 4.011,
+      "end": 4.2667
+    },
+    {
+      "text": "steps",
+      "start": 4.48,
+      "end": 4.693
+    },
+    {
+      "text": "back",
+      "start": 4.779,
+      "end": 4.992
+    }
+  ]
+}
