@@ -1,0 +1,77 @@
+{
+  "id": "mark-2-7",
+  "text": "Why doth this man thus speak blasphemies? who can forgive sins but God only?",
+  "duration": 5.546621315192744,
+  "words": [
+    {
+      "text": "Why",
+      "start": 0.299,
+      "end": 0.512
+    },
+    {
+      "text": "doth",
+      "start": 0.64,
+      "end": 0.768
+    },
+    {
+      "text": "this",
+      "start": 0.853,
+      "end": 0.981
+    },
+    {
+      "text": "man",
+      "start": 1.067,
+      "end": 1.237
+    },
+    {
+      "text": "thus",
+      "start": 1.408,
+      "end": 1.5787
+    },
+    {
+      "text": "speak",
+      "start": 1.749,
+      "end": 1.92
+    },
+    {
+      "text": "blasphemies",
+      "start": 2.048,
+      "end": 2.603
+    },
+    {
+      "text": "who",
+      "start": 3.243,
+      "end": 3.3707
+    },
+    {
+      "text": "can",
+      "start": 3.413,
+      "end": 3.541
+    },
+    {
+      "text": "forgive",
+      "start": 3.584,
+      "end": 3.84
+    },
+    {
+      "text": "sins",
+      "start": 3.925,
+      "end": 4.181
+    },
+    {
+      "text": "but",
+      "start": 4.395,
+      "end": 4.5227
+    },
+    {
+      "text": "God",
+      "start": 4.565,
+      "end": 4.7787
+    },
+    {
+      "text": "only",
+      "start": 4.864,
+      "end": 5.035
+    }
+  ]
+}

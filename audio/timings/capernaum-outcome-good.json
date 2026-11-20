@@ -1,0 +1,142 @@
+{
+  "id": "capernaum-outcome-good",
+  "text": "There is warmth in this crowded room. With the command completed, the man rises and carries his bed home. The friends make room for his first steps.",
+  "duration": 9.761043083900226,
+  "words": [
+    {
+      "text": "There",
+      "start": 0.341,
+      "end": 0.469
+    },
+    {
+      "text": "is",
+      "start": 0.512,
+      "end": 0.5547
+    },
+    {
+      "text": "warmth",
+      "start": 0.64,
+      "end": 1.152
+    },
+    {
+      "text": "in",
+      "start": 1.237,
+      "end": 1.323
+    },
+    {
+      "text": "this",
+      "start": 1.365,
+      "end": 1.4507
+    },
+    {
+      "text": "crowded",
+      "start": 1.536,
+      "end": 1.8347
+    },
+    {
+      "text": "room",
+      "start": 1.963,
+      "end": 2.133
+    },
+    {
+      "text": "With",
+      "start": 2.816,
+      "end": 2.901
+    },
+    {
+      "text": "the",
+      "start": 2.944,
+      "end": 3.029
+    },
+    {
+      "text": "command",
+      "start": 3.072,
+      "end": 3.2427
+    },
+    {
+      "text": "completed",
+      "start": 3.456,
+      "end": 3.84
+    },
+    {
+      "text": "the",
+      "start": 4.309,
+      "end": 4.437
+    },
+    {
+      "text": "man",
+      "start": 4.48,
+      "end": 4.608
+    },
+    {
+      "text": "rises",
+      "start": 4.736,
+      "end": 5.1627
+    },
+    {
+      "text": "and",
+      "start": 5.419,
+      "end": 5.589
+    },
+    {
+      "text": "carries",
+      "start": 5.632,
+      "end": 5.9307
+    },
+    {
+      "text": "his",
+      "start": 6.016,
+      "end": 6.144
+    },
+    {
+      "text": "bed",
+      "start": 6.187,
+      "end": 6.357
+    },
+    {
+      "text": "home",
+      "start": 6.443,
+      "end": 6.613
+    },
+    {
+      "text": "The",
+      "start": 7.424,
+      "end": 7.509
+    },
+    {
+      "text": "friends",
+      "start": 7.552,
+      "end": 7.765
+    },
+    {
+      "text": "make",
+      "start": 7.893,
+      "end": 8.064
+    },
+    {
+      "text": "room",
+      "start": 8.107,
+      "end": 8.32
+    },
+    {
+      "text": "for",
+      "start": 8.448,
+      "end": 8.533
+    },
+    {
+      "text": "his",
+      "start": 8.576,
+      "end": 8.661
+    },
+    {
+      "text": "first",
+      "start": 8.747,
+      "end": 9.0027
+    },
+    {
+      "text": "steps",
+      "start": 9.173,
+      "end": 9.344
+    }
+  ]
+}

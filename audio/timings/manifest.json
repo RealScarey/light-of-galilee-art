@@ -113,6 +113,125 @@
       "timings": "audio/timings/beloved-son.json",
       "duration": 1.796938775510204,
       "text": "This is my beloved Son."
+    },
+    {
+      "id": "mark-2-1",
+      "file": "audio/narration/mark-2-1.mp3",
+      "timings": "audio/timings/mark-2-1.json",
+      "duration": 6.231609977324263,
+      "text": "And again he entered into Capernaum, after some days; and it was noised that he was in the house."
+    },
+    {
+      "id": "mark-2-2",
+      "file": "audio/narration/mark-2-2.mp3",
+      "timings": "audio/timings/mark-2-2.json",
+      "duration": 10.65501133786848,
+      "text": "And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them."
+    },
+    {
+      "id": "mark-2-3",
+      "file": "audio/narration/mark-2-3.mp3",
+      "timings": "audio/timings/mark-2-3.json",
+      "duration": 4.815192743764173,
+      "text": "And they come unto him, bringing one sick of the palsy, which was borne of four."
+    },
+    {
+      "id": "mark-2-4",
+      "file": "audio/narration/mark-2-4.mp3",
+      "timings": "audio/timings/mark-2-4.json",
+      "duration": 10.016462585034013,
+      "text": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay."
+    },
+    {
+      "id": "mark-2-6",
+      "file": "audio/narration/mark-2-6.mp3",
+      "timings": "audio/timings/mark-2-6.json",
+      "duration": 4.146802721088435,
+      "text": "But there were certain of the scribes sitting there, and reasoning in their hearts,"
+    },
+    {
+      "id": "mark-2-7",
+      "file": "audio/narration/mark-2-7.mp3",
+      "timings": "audio/timings/mark-2-7.json",
+      "duration": 5.546621315192744,
+      "text": "Why doth this man thus speak blasphemies? who can forgive sins but God only?"
+    },
+    {
+      "id": "mark-2-12",
+      "file": "audio/narration/mark-2-12.mp3",
+      "timings": "audio/timings/mark-2-12.json",
+      "duration": 11.212290249433106,
+      "text": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion."
+    },
+    {
+      "id": "capernaum-plain",
+      "file": "audio/narration/capernaum-plain.mp3",
+      "timings": "audio/timings/capernaum-plain.json",
+      "duration": 11.804399092970522,
+      "text": "Four friends bring a man who cannot walk. When the crowd blocks the door, they open the roof and lower his bed before Jesus. Their care makes a way; Jesus alone has authority to forgive and heal."
+    },
+    {
+      "id": "capernaum-briefing",
+      "file": "audio/narration/capernaum-briefing.mp3",
+      "timings": "audio/timings/capernaum-briefing.json",
+      "duration": 23.222108843537416,
+      "text": "The Paralytic at Capernaum. This is game guidance, not Scripture. Four friends make a way through a crowded house. You accompany them; you never play Jesus or forgive sins. Attend to their faith and Jesus’ verified Word, with high compassion and measured strength. The completing beat is the command to rise. Nobody loses; every outcome continues."
+    },
+    {
+      "id": "capernaum-outcome-excellent",
+      "file": "audio/narration/capernaum-outcome-excellent.mp3",
+      "timings": "audio/timings/capernaum-outcome-excellent.json",
+      "duration": 11.650204081632653,
+      "text": "The friends made a way, you attended with tenderness and measured strength, and the command to rise was completed. The man takes up his bed and walks. The gathered people glorify God."
+    },
+    {
+      "id": "capernaum-outcome-good",
+      "file": "audio/narration/capernaum-outcome-good.mp3",
+      "timings": "audio/timings/capernaum-outcome-good.json",
+      "duration": 9.761043083900226,
+      "text": "There is warmth in this crowded room. With the command completed, the man rises and carries his bed home. The friends make room for his first steps."
+    },
+    {
+      "id": "capernaum-outcome-overwhelming",
+      "file": "audio/narration/capernaum-outcome-overwhelming.mp3",
+      "timings": "audio/timings/capernaum-outcome-overwhelming.json",
+      "duration": 9.203764172335601,
+      "text": "Strength fills the small room too heavily. People draw back in awe and unease. There is room to try a gentler, more measured way of following."
+    },
+    {
+      "id": "capernaum-outcome-cold",
+      "file": "audio/narration/capernaum-outcome-cold.mp3",
+      "timings": "audio/timings/capernaum-outcome-cold.json",
+      "duration": 8.901904761904762,
+      "text": "The crowded room grows still when tender care is withheld. The man remains on his bed. On another walk, make room for him as a person."
+    },
+    {
+      "id": "capernaum-outcome-grotesque",
+      "file": "audio/narration/capernaum-outcome-grotesque.mp3",
+      "timings": "audio/timings/capernaum-outcome-grotesque.json",
+      "duration": 10.318321995464853,
+      "text": "Too much force and too little care unsettle the room. The crowd scatters back, and the man remains on his bed. You can continue and try again without losing."
+    },
+    {
+      "id": "capernaum-outcome-ineffective",
+      "file": "audio/narration/capernaum-outcome-ineffective.mp3",
+      "timings": "audio/timings/capernaum-outcome-ineffective.json",
+      "duration": 9.935192743764173,
+      "text": "The walk has not reached a complete healing. The man remains on his bed while the friends wait. The story continues; there is another chance to listen and follow."
+    },
+    {
+      "id": "capernaum-outcome-partial",
+      "file": "audio/narration/capernaum-outcome-partial.mp3",
+      "timings": "audio/timings/capernaum-outcome-partial.json",
+      "duration": 10.067891156462585,
+      "text": "The Word has been heard, but the completing command has not been finished. The man remains on his bed; this is not yet a full healing and no follower is gained."
+    },
+    {
+      "id": "bethsaida-briefing",
+      "file": "audio/narration/bethsaida-briefing.mp3",
+      "timings": "audio/timings/bethsaida-briefing.json",
+      "duration": 42.418503401360546,
+      "text": "Your walk: Healing the Blind at Bethsaida. This is game guidance, not a scripture quotation. In Bethsaida, people bring a blind man to Jesus and beg Him to touch him. You walk as a disciple with Jesus and choose how to meet this man. Listen to the Gospel, then act as He did. Take him by the hand, lead him out of the village, and heal him carefully. Full healing takes two touches. Three stars reflect alignment with the Gospel: Touch for method, high compassion for tender care, and medium power for measured strength. Excellent needs all three and the second touch. Nobody loses. Every outcome continues."
     }
   ]
 }

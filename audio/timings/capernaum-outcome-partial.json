@@ -1,0 +1,162 @@
+{
+  "id": "capernaum-outcome-partial",
+  "text": "The Word has been heard, but the completing command has not been finished. The man remains on his bed; this is not yet a full healing and no follower is gained.",
+  "duration": 10.067891156462585,
+  "words": [
+    {
+      "text": "The",
+      "start": 0.341,
+      "end": 0.4267
+    },
+    {
+      "text": "Word",
+      "start": 0.469,
+      "end": 0.6827
+    },
+    {
+      "text": "has",
+      "start": 0.811,
+      "end": 0.896
+    },
+    {
+      "text": "been",
+      "start": 0.939,
+      "end": 1.109
+    },
+    {
+      "text": "heard",
+      "start": 1.152,
+      "end": 1.365
+    },
+    {
+      "text": "but",
+      "start": 1.707,
+      "end": 1.8347
+    },
+    {
+      "text": "the",
+      "start": 1.877,
+      "end": 1.9627
+    },
+    {
+      "text": "completing",
+      "start": 2.005,
+      "end": 2.389
+    },
+    {
+      "text": "command",
+      "start": 2.475,
+      "end": 2.688
+    },
+    {
+      "text": "has",
+      "start": 3.029,
+      "end": 3.1147
+    },
+    {
+      "text": "not",
+      "start": 3.2,
+      "end": 3.3707
+    },
+    {
+      "text": "been",
+      "start": 3.413,
+      "end": 3.584
+    },
+    {
+      "text": "finished",
+      "start": 3.627,
+      "end": 3.84
+    },
+    {
+      "text": "The",
+      "start": 4.693,
+      "end": 4.7787
+    },
+    {
+      "text": "man",
+      "start": 4.821,
+      "end": 4.992
+    },
+    {
+      "text": "remains",
+      "start": 5.12,
+      "end": 5.4187
+    },
+    {
+      "text": "on",
+      "start": 5.504,
+      "end": 5.589
+    },
+    {
+      "text": "his",
+      "start": 5.632,
+      "end": 5.717
+    },
+    {
+      "text": "bed",
+      "start": 5.803,
+      "end": 5.973
+    },
+    {
+      "text": "this",
+      "start": 6.613,
+      "end": 6.741
+    },
+    {
+      "text": "is",
+      "start": 6.784,
+      "end": 6.869
+    },
+    {
+      "text": "not",
+      "start": 6.912,
+      "end": 7.0827
+    },
+    {
+      "text": "yet",
+      "start": 7.168,
+      "end": 7.296
+    },
+    {
+      "text": "a",
+      "start": 7.339,
+      "end": 7.381
+    },
+    {
+      "text": "full",
+      "start": 7.424,
+      "end": 7.637
+    },
+    {
+      "text": "healing",
+      "start": 7.723,
+      "end": 7.936
+    },
+    {
+      "text": "and",
+      "start": 8.192,
+      "end": 8.533
+    },
+    {
+      "text": "no",
+      "start": 8.576,
+      "end": 8.7467
+    },
+    {
+      "text": "follower",
+      "start": 8.832,
+      "end": 9.173
+    },
+    {
+      "text": "is",
+      "start": 9.259,
+      "end": 9.344
+    },
+    {
+      "text": "gained",
+      "start": 9.429,
+      "end": 9.685
+    }
+  ]
+}
